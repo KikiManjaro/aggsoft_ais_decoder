@@ -1,6 +1,10 @@
 # aggsoft-ais-decoder
 
-**Unofficial** Python wrapper for decoding AIS (Automatic Identification System) messages via [aggsoft.com](https://www.aggsoft.com/cgi-perl/ais/decode_ais.pl).
+[![PyPI version](https://img.shields.io/pypi/v/aggsoft-ais-decoder)](https://pypi.org/project/aggsoft-ais-decoder/)
+[![Python versions](https://img.shields.io/pypi/pyversions/aggsoft-ais-decoder)](https://pypi.org/project/aggsoft-ais-decoder/)
+[![License](https://img.shields.io/pypi/l/aggsoft-ais-decoder)](https://github.com/KikiManjaro/aggsoft_ais_decoder/blob/main/LICENSE)
+
+**Unofficial** Python wrapper for decoding AIS (Automatic Identification System) messages via [aggsoft.com](https://www.aggsoft.com/).
 
 > **Note**: This library is not affiliated with, endorsed by, or connected to aggsoft.com. The service is provided by a third party.
 
@@ -113,6 +117,12 @@ pip install -r requirements-dev.txt
 # Run tests
 pytest tests/
 ```
+
+## Links
+
+- [PyPI Package](https://pypi.org/project/aggsoft-ais-decoder/)
+- [GitHub Repository](https://github.com/KikiManjaro/aggsoft_ais_decoder)
+- [Issue Tracker](https://github.com/KikiManjaro/aggsoft_ais_decoder/issues)
 
 ## Legal
 
